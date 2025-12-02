@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="current_weather">Поточна погода</string>
+    <string name="feels_like">Відчувається як</string>
+    <string name="humidity">Вологість</string>
+    <string name="pressure">Тиск</string>
+    <string name="wind_speed">Швидкість вітру</string>
+    <string name="search_city">Пошук міста</string>
+    <string name="location_permission_required">Потрібен дозвіл на геолокацію</string>
+    <string name="error_loading_weather">Помилка завантаження погоди</string>
+    <string name="refresh">Оновити</string>
+    <string name="history">Історія</string>
+    <string name="no_history">Немає історії</string>
+    <string name="loading">Завантаження...</string>
+    <string name="degrees">°C</string>
+</resources>
